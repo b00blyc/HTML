@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.math{
+			font-style: italic;
+		}
+		.text {
+    text-align:  center;
+    }
+	</style>
+</head>
+<body>
+	<h1>Заголовок первого уровня</h1>
+	<h2>Заголовок второго уровня</h2>
+	<h3>Заголовок третьего уровня</h3>
+	<h4>Заголовок четвертого уровня</h4>
+	<h5>Заголовок аятого уровня</h5>
+	<h6>Заголовок шестого уровня</h6>
+	<p>Lorem ipsum <span>dolor</span> sit amet, consectetur adipisicing elit. Officia similique commodi, optio, unde sapiente minima corporis, recusandae <span>mollitia</span> aspernatur quae inventore numquam delectus porro voluptate iste beatae placeat non assumenda!</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae aliquid odit, inventore, quo maxime harum accusantium autem minus earum. Dolorem <br> voluptatum non <span>aspernatur</span> amet magni aut, eius illum, mollitia modi?</p>
+	<hr>
+	<p><a href="http://yandex.ua" > yandex </a> </p>
+	<p><a href="http://google.com.ua"> google </a> </p>
+	<p><a href="http://bing.ru"> bing</a></p>
+	<p><a href="http://duckduckgo.com"> duckduckgo </a></p>
+	<p><a href="http://yandex.ua" target="_blank"><img src="http://www.userlogos.org/files/logos/Rog/yandex.ru_05.png" alt="Yandex logo"></a></p>
+	<p><a href="http://google.com.ua" target="_blank"> <img src="http://dougleschan.com/the-recruitment-guru/wp-content/uploads/2016/09/google-logo.png" alt="google-logo"></a></p>
+	<p><a href="http://bing.ru" target="_blank"> <img src="https://s.4pda.to/vePhQTGWrQu5rMcMRTG2RjJoAhwq.jpg" alt="bing-logo"></a></p>
+	<p><a href="http://duckduckgo.com" target="_blank"> <img src="https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png" alt="duckduckgo-logo"></a></p>
+    <div class="text">
+	<p>Спец символы</p>
+	</div>
+	<p>2017 &copy; Copyright</p>
+	<p>&larr;&uarr;&rarr;&darr;</p>
+	<p>&psi;=&phi;*&xi;</p>
+	<div class="text">
+	<p>Задачи на sub,sup</p>
+	</div>
+	<p>&xi;<sup>1</sup>+&Psi;<sup>3</sup>=&Sigma;<sub>2</sub>+&Omega;<sub>4</sub></p>
+	<div class="math">
+	<p>x<sub>1</sub>+x<sub>2</sub>=-&rho;</p>
+	</div>
+</body>
+</html>
